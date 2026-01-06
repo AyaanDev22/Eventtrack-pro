@@ -18,6 +18,8 @@ app.use(cookieParser());
 const allowedOrigins = [
   "http://localhost:3000",
   "http://10.10.10.24:3000",
+"https://eventtrackprofrontend-git-main-ayaans-projects-7921372a.vercel.app",
+  "https://eventtrackprofrontend-5j8qv6hvg-ayaans-projects-7921372a.vercel.app
 ];
 
 app.use(
